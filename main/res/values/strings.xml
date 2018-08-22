@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Judge</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+    <color name="spinnach">#69c0be4a</color>
+    <string name="hello_world">Hello world!</string>
+</resources>
