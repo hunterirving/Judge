@@ -33,7 +33,7 @@ Judge is a game of quick wits and fast reflexes that can really test a player's 
 
 When I unveiled the app as my final project, I (foolishly) offered to buy a drink for any of my classmates who could best me in a "first to ten" match.
 
-Even though I created it from scratch, it turns out I'm just not very good at this game.
-I bought many, many people drinks that night...
+Even though I created it from scratch, it turns out I'm just not very good at the game.
+I bought many, many drinks that night...
 
 #### <a href="https://drive.google.com/file/d/0B1fOxfGxRccTVEtaRXY5OElEdXc/view?usp=sharing">Download a compiled APK here</a>
