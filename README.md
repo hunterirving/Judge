@@ -10,7 +10,7 @@ Both players hold the tablet with one hand each.
 
 Tap any button to start, and both characters will begin a windup animation.
 
-When the windup animation has concluded, each player will be randomly assigned a number between 1 and 9 (inclusive).
+When the windup animation has concluded, each player is randomly assigned a number between 1 and 9 (inclusive).
 If your number is higher than your opponent's, strike them with your mallet.
 
 <img src="https://github.com/hunterirving/Judge/blob/master/images/lowboop.gif" height="50%" width="50%">
